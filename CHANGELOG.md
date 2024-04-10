@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v0.0.2] - 2024-04-10
+### 🐛 Bug Fixes
+- [`a4a7497`](https://github.com/MultiTheFranky/changelog-action/commit/a4a749723327df46f9b51ea0948fb396f36353d0) - lint *(commit by [@MultiTheFranky](https://github.com/MultiTheFranky))*
+
+
 ## [v1.10.1] - 2024-02-06
 ### :bug: Bug Fixes
 - [`4a2c34a`](https://github.com/requarks/changelog-action/commit/4a2c34a1a8fcfa9e48e61960aad0affc15066393) - incorrect related issue URL in file-based changelog output *(commit by [@NGPixel](https://github.com/NGPixel))*
@@ -127,3 +132,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 [v1.9.0]: https://github.com/requarks/changelog-action/compare/v1.8.2...v1.9.0
 [v1.10.0]: https://github.com/requarks/changelog-action/compare/v1.9.0...v1.10.0
 [v1.10.1]: https://github.com/requarks/changelog-action/compare/v1.10.0...v1.10.1
+[v0.0.2]: https://github.com/MultiTheFranky/changelog-action/compare/v0.0.1...v0.0.2
