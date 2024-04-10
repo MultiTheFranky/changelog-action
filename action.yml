@@ -1,6 +1,6 @@
 name: 'Changelog from Conventional Commits'
 description: 'Generate and update the CHANGELOG from conventional commits since latest tag or from a given tag range'
-author: Nicolas Giard
+author: Nicolas Giard Modified by MultiTheFranky
 inputs:
   token:
     description: GitHub Token
