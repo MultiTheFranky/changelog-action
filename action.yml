@@ -1,4 +1,4 @@
-name: 'Changelog from Conventional Commits'
+name: 'rtf42-conventional-changelog-action'
 description: 'Generate and update the CHANGELOG from conventional commits since latest tag or from a given tag range'
 author: Nicolas Giard Modified by MultiTheFranky
 inputs:
